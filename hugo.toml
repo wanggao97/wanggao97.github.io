@@ -1,0 +1,4 @@
+baseURL = 'https://wanggao97.github.io/'
+locale = 'en-us'
+title = 'WG.log'
+theme = 'hugo-PaperMod'
