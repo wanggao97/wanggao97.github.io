@@ -3,7 +3,7 @@ title: hugo+github长期博客方案
 slug: hugo-github-longterm-blog-solution-zsurow
 url: /post/hugo-github-longterm-blog-solution-zsurow.html
 date: '2026-04-26 21:31:39+08:00'
-lastmod: '2026-04-27 03:41:45+08:00'
+lastmod: '2026-04-27 03:43:25+08:00'
 toc: true
 isCJKLanguage: true
 ---
@@ -18,7 +18,7 @@ isCJKLanguage: true
 
 版本管理工具：git
 
-![1723643615713E4AC6CD0541019E9](https://img.wanggao.space/2026/04/1723643615713E4AC6CD0541019E9-20260427034137-amazcs5.jpg.jpg)
+![1717562375991E166252752087A7F](http://127.0.0.1:3372/assets/1717562375991E166252752087A7F-20260427034318-ykz7ux4.jpg)
 
 ## 建立联系
 
