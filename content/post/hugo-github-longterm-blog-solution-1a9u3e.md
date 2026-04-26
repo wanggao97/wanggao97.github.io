@@ -3,14 +3,14 @@ title: hugo+github长期博客方案
 slug: hugo-github-longterm-blog-solution-1a9u3e
 url: /post/hugo-github-longterm-blog-solution-1a9u3e.html
 date: '2026-04-26 21:14:43+08:00'
-lastmod: '2026-04-26 21:26:35+08:00'
+lastmod: '2026-04-26 21:28:59+08:00'
 toc: true
 isCJKLanguage: true
 ---
 
 
 
-![image](http://127.0.0.1:1075/assets/unsplash-3KUESKOngy8-20260118121431-gpry12n.jpg)
+![image](http://127.0.0.1:3372/assets/unsplash-3KUESKOngy8-20260118121431-gpry12n.jpg)
 
 # hugo+github长期博客方案
 
