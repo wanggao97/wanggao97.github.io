@@ -3,14 +3,12 @@ title: hugo+github长期博客方案
 slug: hugo-github-longterm-blog-solution-1a9u3e
 url: /post/hugo-github-longterm-blog-solution-1a9u3e.html
 date: '2026-04-26 21:14:43+08:00'
-lastmod: '2026-04-26 21:15:42+08:00'
+lastmod: '2026-04-26 21:18:00+08:00'
 toc: true
 isCJKLanguage: true
 ---
 
 
-
-![image](assets/unsplash-zVL4gGwl8k4-20260118102734-w7fsw2r.jpg)
 
 # hugo+github长期博客方案
 
@@ -78,7 +76,7 @@ isCJKLanguage: true
 
 #### 修改配置文件
 
-![image](assets/image-20260426135304-et9a6zk.png)
+![image](http://127.0.0.1:1075/assets/image-20260426135304-et9a6zk.png)
 
 （改成flase默认能够发表）
 
