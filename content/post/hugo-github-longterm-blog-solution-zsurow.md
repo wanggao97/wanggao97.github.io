@@ -3,12 +3,14 @@ title: hugo+github长期博客方案
 slug: hugo-github-longterm-blog-solution-zsurow
 url: /post/hugo-github-longterm-blog-solution-zsurow.html
 date: '2026-04-26 21:31:39+08:00'
-lastmod: '2026-04-26 21:32:09+08:00'
+lastmod: '2026-04-27 01:59:16+08:00'
 toc: true
 isCJKLanguage: true
 ---
 
 
+
+![image](assets/1716891989143F11596A765915667-20260427015858-3tnu4jg.jpg)
 
 # hugo+github长期博客方案
 
@@ -76,9 +78,7 @@ isCJKLanguage: true
 
 #### 修改配置文件
 
-![image](http://qn.wanggao.space/image-20260426135304-et9a6zk.png)
-
-（改成flase默认能够发表）
+​`draft: true`改成flase默认能够发表
 
 #### 主题选择
 
