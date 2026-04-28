@@ -3,14 +3,14 @@ title: hugo+github长期博客方案
 slug: hugo-github-longterm-blog-solution-z76xan
 url: /post/hugo-github-longterm-blog-solution-z76xan.html
 date: '2026-04-27 03:44:19+08:00'
-lastmod: '2026-04-27 03:44:53+08:00'
+lastmod: '2026-04-28 23:44:57+08:00'
 toc: true
 isCJKLanguage: true
 ---
 
 
 
-![image](https://img.wanggao.space/2026/04/unsplash-UNeHrHb7eII-20260331194017-w4exaus.jpg)
+![image](http://127.0.0.1:5753/assets/unsplash-UNeHrHb7eII-20260331194017-w4exaus.jpg)
 
 # hugo+github长期博客方案
 
@@ -20,7 +20,7 @@ isCJKLanguage: true
 
 版本管理工具：git
 
-![1725507343906CF244E208AA7704E](https://img.wanggao.space/2026/04/1725507343906CF244E208AA7704E-20260427034446-txw81yy.jpg)
+![1715139762109E17F36EF948FA3D8](http://127.0.0.1:5753/assets/1715139762109E17F36EF948FA3D8-20260428234449-kd83b6o.jpg)
 
 ## 建立联系
 
