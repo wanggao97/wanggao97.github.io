@@ -2,6 +2,8 @@ baseURL = 'https://wanggao.space/'
 locale = 'en-us'
 title = 'WG.log'
 theme = 'hugo-PaperMod'
+# 强制 Hugo 使用北京时间处理逻辑
+timezone = "Asia/Shanghai"
 
 # ==========================================
 # 1. 生成搜索索引文件 (为搜索功能提供数据支持)
