@@ -6,6 +6,8 @@ date: '2026-05-09 03:06:05+08:00'
 lastmod: '2026-05-09 03:08:29+08:00'
 toc: true
 isCJKLanguage: true
+categories: ["计算机"]
+tags: ["博客"]
 ---
 
 
