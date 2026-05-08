@@ -1,7 +1,10 @@
 ---
 title: "搜索"
 layout: "search"
-# 页面下方的提示文字，可以自定义
-summary: "search"
-placeholder: "在这里输入关键词..."
+# 下面这两行是关键：阻止它出现在文章列表和主页中
+_build:
+  list: never
+  render: always
+# 搜索引擎爬虫也不用抓取它
+noindex: true
 ---
