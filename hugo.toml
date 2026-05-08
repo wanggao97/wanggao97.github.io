@@ -2,3 +2,51 @@ baseURL = 'https://wanggao.space/'
 locale = 'en-us'
 title = 'WG.log'
 theme = 'hugo-PaperMod'
+
+# ==========================================
+# 1. 生成搜索索引文件 (为搜索功能提供数据支持)
+# ==========================================
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+# ==========================================
+# 2. 开启分类和标签支持
+# ==========================================
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+# ==========================================
+# 3. 顶部导航菜单配置
+# ==========================================
+[menu]
+  [[menu.main]]
+    identifier = "categories"
+    name = "分类"
+    url = "/categories/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "标签"
+    url = "/tags/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "search"
+    name = "搜索"
+    url = "/search/"
+    weight = 30
+
+# ==========================================
+# 4. PaperMod 主题专属显示设置
+# ==========================================
+[params]
+  # 在文章底部显示标签和分类的链接
+  ShowPostNavLinks = true
+  
+  # 在文章顶部显示面包屑导航 (例如: Home > Categories > 技术折腾 > 文章名)
+  ShowBreadCrumbs = true
+  
+  # 开启文章页面的字数统计
+  ShowWordCount = true
