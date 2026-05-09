@@ -2,8 +2,8 @@
 title: 5月1出游凯里
 slug: travel-to-kaili-south-on-may-1-z1239sl
 url: /post/travel-to-kaili-south-on-may-1-z1239sl.html
-date: '2026-05-9 18:50:46+08:00'
-lastmod: '2026-05-9 01:39:47+08:00'
+date: '2026-05-09 18:50:46+08:00'
+lastmod: '2026-05-09 01:39:47+08:00'
 tags:
   - 旅游
 categories:
