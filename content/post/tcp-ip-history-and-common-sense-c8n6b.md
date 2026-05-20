@@ -4,10 +4,12 @@ slug: tcp-ip-history-and-common-sense-c8n6b
 url: /post/tcp-ip-history-and-common-sense-c8n6b.html
 date: '2026-03-22 23:14:21+08:00'
 lastmod: '2026-05-21 00:32:06+08:00'
+tags: ["计算机网络"]
 categories:
   - 计算机
 toc: true
 isCJKLanguage: true
+
 ---
 
 
