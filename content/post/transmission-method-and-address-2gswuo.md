@@ -4,6 +4,9 @@ slug: transmission-method-and-address-2gswuo
 url: /post/transmission-method-and-address-2gswuo.html
 date: '2026-02-28 23:24:29+08:00'
 lastmod: '2026-05-21 00:56:21+08:00'
+tags: ['计算机网络']
+categories:
+  - 计算机
 toc: true
 isCJKLanguage: true
 ---
