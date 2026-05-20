@@ -1,5 +1,5 @@
 ---
-title: tcp／ip 历史和常识
+title: tcp/ip 历史和常识
 slug: tcp-ip-history-and-common-sense-c8n6b
 url: /post/tcp-ip-history-and-common-sense-c8n6b.html
 date: '2026-03-22 23:14:21+08:00'
