@@ -4,6 +4,7 @@ slug: the-building-blocks-of-the-web-and-the-modern-web-tense-242wlh
 url: /post/the-building-blocks-of-the-web-and-the-modern-web-tense-242wlh.html
 date: '2026-03-22 23:12:33+08:00'
 lastmod: '2026-05-21 00:46:51+08:00'
+tags: ['计算机网络']
 categories:
   - 计算机
 toc: true
