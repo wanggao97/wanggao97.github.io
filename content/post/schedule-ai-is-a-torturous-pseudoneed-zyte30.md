@@ -7,6 +7,8 @@ lastmod: '2026-08-15 16:41:50+08:00'
 tags:
   - 第二大脑
   - AI
+categories:
+  - 生活
 keywords: 第二大脑,AI
 toc: true
 isCJKLanguage: true
