@@ -23,9 +23,9 @@ timezone = "Asia/Shanghai"
 # ==========================================
 [menu]
   [[menu.main]]
-    identifier = "categories"
-    name = "分类"
-    url = "/categories/"
+    identifier = "archives"
+    name = "时间线"
+    url = "/archives/"
     weight = 10
 
   [[menu.main]]
