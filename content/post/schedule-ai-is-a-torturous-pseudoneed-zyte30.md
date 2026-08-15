@@ -3,12 +3,10 @@ title: 日程AI化是个折腾的伪需求
 slug: schedule-ai-is-a-torturous-pseudoneed-zyte30
 url: /post/schedule-ai-is-a-torturous-pseudoneed-zyte30.html
 date: '2026-08-15 14:50:03+08:00'
-lastmod: '2026-08-15 16:41:50+08:00'
+lastmod: '2026-08-15 17:10:43+08:00'
 tags:
   - 第二大脑
   - AI
-categories:
-  - 生活
 keywords: 第二大脑,AI
 toc: true
 isCJKLanguage: true
@@ -16,7 +14,7 @@ isCJKLanguage: true
 
 
 
-# 日程AI化是个折腾的伪需求
+
 
 > 用上 Hermes 后，最先想到的是把我万年没更新的「时光序」App 场景转接到 AI 中。但折腾到最后发现，独立 App 的即时操作与视觉体验依然无可替代。本文记录这段探索与踩坑过程。
 
