@@ -24,7 +24,7 @@ timezone = "Asia/Shanghai"
 [menu]
   [[menu.main]]
     identifier = "archives"
-    name = "时间线"
+    name = "Archive"
     url = "/archives/"
     weight = 10
 
@@ -36,13 +36,13 @@ timezone = "Asia/Shanghai"
 
   [[menu.main]]
     identifier = "tags"
-    name = "标签"
+    name = "Tags"
     url = "/tags/"
     weight = 20
 
   [[menu.main]]
     identifier = "search"
-    name = "搜索"
+    name = "Search"
     url = "/search/"
     weight = 30
 
