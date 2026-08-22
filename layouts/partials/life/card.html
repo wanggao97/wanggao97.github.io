@@ -1,0 +1,23 @@
+<article class="life-card">
+  <header class="life-card-header">
+    <h2 class="life-card-title">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </h2>
+    <div class="life-card-meta">
+      <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+        {{ .Date.Format "2006-01-02 15:04" }}
+      </time>
+      {{- with .Params.location }}
+      <span class="life-location"> · 📍 {{ . }}</span>
+      {{- end }}
+    </div>
+  </header>
+
+  {{- if .Params.photos }}
+    {{ partial "life/gallery.html" . }}
+  {{- end }}
+
+  <div class="life-card-content">
+    {{ .Content }}
+  </div>
+</article>

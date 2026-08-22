@@ -29,6 +29,12 @@ timezone = "Asia/Shanghai"
     weight = 10
 
   [[menu.main]]
+    identifier = "life"
+    name = "Life"
+    url = "/life/"
+    weight = 15
+
+  [[menu.main]]
     identifier = "tags"
     name = "标签"
     url = "/tags/"
@@ -44,6 +50,8 @@ timezone = "Asia/Shanghai"
 # 4. PaperMod 主题专属显示设置
 # ==========================================
 [params]
+  mainSections = ["post"]
+
   # 在文章底部显示标签和分类的链接
   ShowPostNavLinks = true
   

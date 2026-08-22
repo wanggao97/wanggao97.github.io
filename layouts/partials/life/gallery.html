@@ -1,0 +1,10 @@
+{{- with .Params.photos }}
+{{- $count := len . }}
+<div class="life-gallery life-gallery-{{ if eq $count 1 }}single{{ else if eq $count 2 }}double{{ else if eq $count 4 }}quad{{ else }}grid{{ end }}">
+  {{- range . }}
+  <div class="life-gallery-item">
+    <img src="{{ . }}" alt="Life photo" loading="lazy" decoding="async" />
+  </div>
+  {{- end }}
+</div>
+{{- end }}
