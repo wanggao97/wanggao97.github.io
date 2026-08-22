@@ -1,0 +1,7 @@
+{{- $text := .Get "text" | default (.Get 0) -}}
+{{- $href := .Get "href" -}}
+{{- if $href -}}
+<a class="siyuan-block-ref" href="{{ $href | safeURL }}">{{ $text }}</a>
+{{- else -}}
+<span class="siyuan-block-ref siyuan-block-ref-unpublished">{{ $text }}</span>
+{{- end -}}
