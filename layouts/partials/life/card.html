@@ -1,9 +1,6 @@
 <article class="life-card">
   {{- $hasBody := gt (len (.Plain | strings.TrimSpace)) 0 }}
   <header class="life-card-header">
-    <h2 class="life-card-title{{ if and (not $hasBody) .Params.video }} life-sr-only{{ end }}">
-      <a href="{{ .Permalink }}">{{ .Title }}</a>
-    </h2>
     <div class="life-card-meta">
       <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
         {{ .Date.Format "2006-01-02 15:04" }}
