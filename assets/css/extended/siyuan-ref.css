@@ -1,0 +1,28 @@
+/* SiYuan Block Reference and Bi-directional Linking Styles */
+
+.siyuan-block-ref {
+    display: inline;
+    padding: 2px 6px;
+    margin: 0 2px;
+    font-size: 0.9em;
+    line-height: inherit;
+    border-radius: 4px;
+    background-color: rgba(125, 125, 125, 0.12);
+    border-bottom: 1px dashed var(--secondary, #888);
+    color: var(--primary, inherit);
+    text-decoration: none;
+    transition: background-color 0.2s ease, border-color 0.2s ease;
+    word-break: break-word;
+}
+
+a.siyuan-block-ref:hover {
+    background-color: rgba(125, 125, 125, 0.22);
+    border-bottom-style: solid;
+    text-decoration: none;
+}
+
+.siyuan-block-ref-unpublished {
+    cursor: default;
+    border-bottom-style: dotted;
+    opacity: 0.85;
+}
