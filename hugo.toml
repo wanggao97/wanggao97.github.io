@@ -1,9 +1,10 @@
 baseURL = 'https://wanggao.space/'
-locale = 'en-us'
+languageCode = 'zh'
+defaultContentLanguage = 'zh'
 title = 'WG.log'
 theme = 'hugo-PaperMod'
-# 强制 Hugo 使用北京时间处理逻辑
-timezone = "Asia/Shanghai"
+timeZone = 'Asia/Shanghai'
+hasCJKLanguage = true
 
 # ==========================================
 # 1. 生成搜索索引文件 (为搜索功能提供数据支持)
@@ -51,6 +52,7 @@ timezone = "Asia/Shanghai"
 # ==========================================
 [params]
   mainSections = ["post"]
+  DateFormat = "2006年1月2日"
 
   # 在文章底部显示标签和分类的链接
   ShowPostNavLinks = true
