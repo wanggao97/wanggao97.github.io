@@ -1,0 +1,14 @@
+{{- with .Params.video }}
+<a class="life-video-card" href="{{ .url }}" target="_blank" rel="noopener noreferrer">
+  {{- with .cover }}
+  <span class="life-video-cover">
+    <img src="{{ . }}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" />
+    <span class="life-video-play" aria-hidden="true"></span>
+  </span>
+  {{- end }}
+  <span class="life-video-info">
+    <span class="life-video-title">{{ .title }}</span>
+    <span class="life-video-provider">Bilibili{{ with .id }} · {{ . }}{{ end }}</span>
+  </span>
+</a>
+{{- end }}

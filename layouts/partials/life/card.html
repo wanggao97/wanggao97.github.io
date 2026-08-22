@@ -1,6 +1,7 @@
 <article class="life-card">
+  {{- $hasBody := gt (len (.Plain | strings.TrimSpace)) 0 }}
   <header class="life-card-header">
-    <h2 class="life-card-title">
+    <h2 class="life-card-title{{ if and (not $hasBody) .Params.video }} life-sr-only{{ end }}">
       <a href="{{ .Permalink }}">{{ .Title }}</a>
     </h2>
     <div class="life-card-meta">
@@ -17,7 +18,13 @@
     {{ partial "life/gallery.html" . }}
   {{- end }}
 
+  {{- if $hasBody }}
   <div class="life-card-content">
     {{ .Content }}
   </div>
+  {{- end }}
+
+  {{- if .Params.video }}
+    {{ partial "life/video.html" . }}
+  {{- end }}
 </article>
