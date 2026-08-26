@@ -1,7 +1,7 @@
 baseURL = 'https://wanggao.space/'
 languageCode = 'zh'
 defaultContentLanguage = 'zh'
-title = '望高'
+title = '隐逸安'
 theme = 'hugo-PaperMod'
 timeZone = 'Asia/Shanghai'
 hasCJKLanguage = true
