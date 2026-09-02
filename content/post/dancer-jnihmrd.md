@@ -2,8 +2,8 @@
 title: 舞者
 slug: dancer-jnihmrd
 url: /post/dancer-jnihmrd.html
-date: '2026-08-17 23:07:04+08:00'
-lastmod: '2026-09-02 17:07:41+08:00'
+date: '2026-09-02 17:24:55+08:00'
+lastmod: '2026-09-02 17:24:55+08:00'
 tags:
   - 读后感
   - 三观
