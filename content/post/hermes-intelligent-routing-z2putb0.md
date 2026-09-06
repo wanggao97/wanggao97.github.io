@@ -3,7 +3,7 @@ title: hermes+智能路由
 slug: hermes-intelligent-routing-z2putb0
 url: /post/hermes-intelligent-routing-z2putb0.html
 date: '2026-08-15 16:51:28+08:00'
-lastmod: '2026-08-15 17:10:59+08:00'
+lastmod: '2026-09-06 22:54:13+08:00'
 tags:
   - AI
 keywords: AI
@@ -11,9 +11,9 @@ toc: true
 isCJKLanguage: true
 ---
 
+已更替为CliProxyApi，oauth白嫖账号方便，特指谷歌模型。
 
-
-
+---
 
 一开始玩智能路由的想法挺直接的——遇到一个 API 就去配一个。例如最开始尝试了 DeepSeek 和小米的 API。
 
